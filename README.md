@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+[![Sanjay's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjay75409)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay75409&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **sanjay75409/sanjay75409** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
